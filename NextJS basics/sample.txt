@@ -1,0 +1,10 @@
+Browser
+   ↓
+Next.js Server
+   ├── Serve HTML (SSR/SSG)
+   ├── Serve JS bundle
+   ├── Handle API routes (/api)
+   └── Talk to Database
+
+
+server exxecutes react component tsx(ssr)  .... while browser execute the js bundle (csr)
